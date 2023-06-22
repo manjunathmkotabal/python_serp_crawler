@@ -33,6 +33,6 @@ python main.py
 ```
 python main.py --query <your_query_String> --num_links <num_of_links_to_retrieve>
 ```
-- `"your_query_string"` should be replaced with the desired search query, e.g., `"site:youtube.com openinapp.co"`.
-- `num_of_links_to_retrieve` should be replaced with the desired number of video links to retrieve.
+- `<your_query_string>` should be replaced with the desired search query, e.g., `"site:youtube.com openinapp.co"`.
+- `<num_of_links_to_retrieve>` should be replaced with the desired number of video links to retrieve.
 
